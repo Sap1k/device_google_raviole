@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2022 The EvolutionX Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -46,4 +46,4 @@ TARGET_KERNEL_EXT_MODULES := \
     wlan/bcmdhd4389
 
 # Manifests
-DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += vendor/lineage/config/device_framework_matrix.xml
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += vendor/evolution/config/device_framework_matrix.xml
